@@ -1,5 +1,7 @@
 # The Standard (v 2.0.1)
 
+Access the Amazon Kindle version here: https://read.amazon.com/?asin=B09PJD1S93&language=en-US
+
 - [0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.%20Introduction.md)
   - [0.0 Purposing, Modeling & Simulation](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20Purposing%2C%20Modeling%20%26%20Simulation.md)
     - [0.0.0 Introduction](https://github.com/hassanhabib/The-Standard/blob/master/0.%20Introduction/0.0%20Purposing%2C%20Modeling%20%26%20Simulation.md)
